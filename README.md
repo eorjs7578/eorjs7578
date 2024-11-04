@@ -4,7 +4,7 @@
   <a href="https://github.com/eorjs7578">
     <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=eorjs7578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
   </a>
-  <a href="https://github.com/Park0720">
+  <a href="https://github.com/eorjs7578">
     <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorjs7578&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
   </a>
 </div>
