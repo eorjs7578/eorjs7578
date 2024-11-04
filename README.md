@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-4479A1?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Glide-18BED4?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=android&logoColor=white"/>
