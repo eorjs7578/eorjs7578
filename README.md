@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
+### 📚 Experience
+- 🏢 삼성 청년 SW 아카데미 (24/01/02 ~ 24/12/15)
+
+<br>
 
 ### Connect with me:
 
