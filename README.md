@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Park0720&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=eorjs7578&fontSize=90)
 
 <div style="display: flex; gap: 20px;">
   <a href="https://github.com/eorjs7578">
