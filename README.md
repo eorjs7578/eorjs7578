@@ -2,10 +2,10 @@
 
 <div style="display: flex; gap: 20px;">
   <a href="https://github.com/Park0720">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Park0720&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=eorjs7578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
   </a>
   <a href="https://github.com/Park0720">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park0720&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorjs7578&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
   </a>
 </div>
 
@@ -22,14 +22,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: https://velog.io/@ppmm98
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
-[instagram]: https://instagram.com/min_j_98
+[instagram]: https://instagram.com/daegoney
