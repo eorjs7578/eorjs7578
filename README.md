@@ -1,13 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=eorjs7578&fontSize=90)
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/eorjs7578">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eorjs7578&show_icons=true&theme=radical)
-  </a>
-  <a href="https://github.com/eorjs7578">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorjs7578&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
-  </a>
-</div>
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eorjs7578&show_icons=true&theme=radical)
 
 
 ### 🛠 Languages and Tools
