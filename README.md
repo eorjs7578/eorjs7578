@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=eorjs7578&fontSize=90)
 
-## Github Stats
+### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eorjs7578&show_icons=true&theme=radical)
+<br>
 
+### Most Language
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eorjs7578&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 ### 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>  </t>
